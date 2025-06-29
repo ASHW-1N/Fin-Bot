@@ -2,6 +2,8 @@
 
 A real-time financial chatbot that answers natural-language queries using live data from the Indian stock market (NSE/BSE), powered by LLaMA 3 via Groq Cloud.
 
+![Alt Text](./20250627215920.gif)
+
 ---
 
 ## 🚀 Features
