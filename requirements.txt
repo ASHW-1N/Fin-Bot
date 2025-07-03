@@ -1,5 +1,0 @@
-streamlit
-groq
-elasticsearch
-python-dotenv
-yfinance
