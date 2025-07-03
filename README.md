@@ -4,7 +4,8 @@
 [![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Demo](📈 StockSmartBot - Google Chrome 2025-07-03 16-25-17.gif)
+![Demo](demo.gif)
+
 
 
 StockSmartBot is a real-time intelligent financial assistant that analyzes **live Indian stock market data** and returns expert-level reports — just like a SEBI-certified research analyst.
