@@ -64,4 +64,20 @@ StockSmartBot is a real-time intelligent financial assistant that analyzes **liv
 6. You get a full technical & valuation report written like a professional analyst
 
 **Example Output**:
+ABB India Limited closed 0.67% lower at ₹5866.5, indicating a bearish undertone...
+[... full technical analysis follows ...]
+
+🙏 Special Thanks
+Special thanks to @BennyThadikaran for building NseIndiaApi, which powers the live data access for this project.
+
+📌 Improvements Over Previous Version
+✅ Now uses real-time data at the moment of query
+
+✅ Much deeper, clearer, and well-written reports
+
+✅ Better symbol and company matching (ABB, TCS, etc.)
+
+✅ More stable API integration
+
+✅ Professional-level prompt engineering for LLMs
 
